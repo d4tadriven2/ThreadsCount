@@ -4,7 +4,7 @@
  * synchronisiert ein Ressource Objekt val attribut 100 inkrementieren bzw dekrementieren
  *
  */
-public class TwoThreads{
+public class ZweiThreads{
 
     public static void main(String[] args) {
         
